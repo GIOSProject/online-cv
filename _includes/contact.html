@@ -1,17 +1,36 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
-    {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>
-      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+
+
+    {% if sidebar.weixin %}
+    <li class="weixin"> <i class="fab fa-weixin"></i>
+      <a href="https://seachal.github.io/online-cv/assets/images/my-wechat-qrcode.png" target="_blank">{{ sidebar.weixin }}</a>
     </li>
     {% endif %}
+
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
+
+
+    {% if sidebar.email %}
+    <li class="email"><i class="fas fa-envelope"></i>
+      <a href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+    </li>
+    {% endif %}
+
+
+
+    {% if sidebar.github %}
+    <li class="github"><i class="fab fa-github"></i>
+      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+    </li>
+    {% endif %}
+
 
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
@@ -25,11 +44,6 @@
     </li>
     {% endif %}
 
-    {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>
-      <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
-    </li>
-    {% endif %}
 
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>
@@ -67,11 +81,7 @@
     </li>
     {% endif %}
 
-    {% if sidebar.weixin %}
-    <li class="weixin"> <i class="fab fa-weixin"></i>
-      <a href="https://seachal.github.io/online-cv/assets/images/my-wechat-qrcode.png" target="_blank">{{ sidebar.weixin }}</a>
-    </li>
-    {% endif %}
+
 
 
 
