@@ -59,7 +59,9 @@ career-profile:
   summary: |
     3.5年开发经验，2.5年Android App 开发经验,1年Java后台开发经验。
 
-    了解 Kotlin、熟悉Java、多线程编程、常用设计模式、Android优化、自定义View、RxJava、缓存策略、网络协议等相关技术。
+    了解 Kotlin、熟悉Java、多线程编程、网络协议、常用设计模式。
+
+    熟悉Android内存优化、性能优化、自定义View、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
 
     热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow、ApiDoc、编写测试代码中得到答案。
 
@@ -94,7 +96,7 @@ experiences:
   #      title:工作经验
   - role: Android 中级开发工程师，
     time: 2019.07 - 2019.07  1 个月
-    company: CVTE · 广州视源股份
+    company: CVTE · 广州视源电子科技股份有限公司
     details: |
       解决会议平板、教育平板定制 OS 中的 bug。
 
@@ -124,7 +126,9 @@ experiences:
     company: 大连华信计算机技术股份有限公司
     details: |
       参与 OA 办公项目的后台开发。
+
       基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
+
       与 Android 高级开发工程师协作开发一款 OA 办公App，独立开发一款公司内部移动办公 App。
 
 #  - role: Java Web开发实习生
@@ -150,7 +154,7 @@ experiences-projects:
           - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求重试机制（静默登录获取Token，然后二次请求，二次失败则强制用户登录）
           - 使用 RxBinding 优雅实现表单验证、搜索请求
           - 使用 Bugly 快速发现并解决异常
-          - 使用 leakcanary 检查内存泄漏，解决内存泄漏问题
+          - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题
 
 
 
