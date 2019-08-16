@@ -118,18 +118,19 @@ experiences:
   #    给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
   #    已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
-  - role: Android 初级开发工程师
-    time: 2016.06 - 2017.06  1年
+  - role: Java Web开发实习生 & Android 初级开发工程师
+    time: 2016.02 - 2017.06  1年5个月
     company: 大连华信计算机技术股份有限公司
     details: |
       参与 OA 办公项目的后台开发。
+      基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
       与 Android 高级开发工程师协作开发一款 OA 办公App，独立开发一款公司内部移动办公 App。
 
-  - role: Java Web开发实习生
-    time: 2016.02 - 2016.04  3个月
-    company: 大连华信计算机技术股份有限公司
-    details: |
-      基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
+#  - role: Java Web开发实习生
+#    time: 2016.02 - 2016.04  3个月
+#    company: 大连华信计算机技术股份有限公司
+#    details: |
+#      基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
 
 
 
