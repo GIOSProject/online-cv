@@ -57,13 +57,15 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    3.5年开发经验，3年Android App 开发经验,0.5年Java后台开发经验。
+    3.5年工作经验，3年Android App 开发经验,0.5年Java后台开发经验。
 
     了解 Kotlin、熟悉Java、多线程、网络协议、常用设计模式。
 
-    熟悉Android性能优化、自定义View、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
+    掌握 Android OOP、ANR 等问题的原因及解决方法。
 
-    热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow、ApiDoc、编写测试代码中寻找答案。
+    熟悉Android性能优化、自定义View、Handler 机制、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
+
+    热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow、ApiDoc中寻找答案。
 
 education:
   - degree: 网络工程学士（计算机科学与技术学院）
@@ -94,7 +96,7 @@ education:
 
 experiences:
   #      title:工作经验
-  - role: Android 中级开发工程师，
+  - role: Android 中级开发工程师
     time: 2019.07 - 2019.07  1 个月
     company: CVTE · 视源电子科技股份有限公司
     details: |
@@ -121,7 +123,7 @@ experiences:
   #    给IOS工程师讲解业务逻辑，与UI设计师沟通原型和切图，有时参与Api开发。 Android端重要技术选型，
   #    已有Android框架优化升级，提高开发效率，根据原型自定义View。
 
-  - role: Java Web开发实习生 & Android 初级开发工程师
+  - role: Java Web开发实习生 & Android 开发工程师
     time: 2016.02 - 2017.06  1年5个月
     company: 大连华信计算机技术股份有限公司
     details: |
