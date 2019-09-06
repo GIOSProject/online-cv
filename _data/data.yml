@@ -57,11 +57,11 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    3.5年开发经验，2.5年Android App 开发经验,1年Java后台开发经验。
+    3.5年开发经验，3年Android App 开发经验,0.5年Java后台开发经验。
 
-    了解 Kotlin、熟悉Java、多线程编程、网络协议、常用设计模式。
+    了解 Kotlin、熟悉Java、多线程、网络协议、常用设计模式。
 
-    熟悉Android内存优化、性能优化、自定义View、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
+    熟悉Android性能优化、自定义View、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
 
     热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow、ApiDoc、编写测试代码中寻找答案。
 
@@ -96,11 +96,11 @@ experiences:
   #      title:工作经验
   - role: Android 中级开发工程师，
     time: 2019.07 - 2019.07  1 个月
-    company: CVTE · 广州视源电子科技股份有限公司
+    company: CVTE · 视源电子科技股份有限公司
     details: |
-      解决会议平板、教育平板定制 OS 中的 bug。
+      解决会议平板、教育平板定制 OS 中的 bug,定制 OS 维护升级。
 
-      离职原因：工作内容与我的职业规划不是很契合。
+      离职原因：工作内容与职业规划不契合。
 
   - role: Android 中级开发工程师
     time: 2017.07 - 2019.06  2 年
@@ -194,7 +194,7 @@ experiences-projects:
         - 相关技术
           - 解决svg代替png的不兼容Android 4.0以下的问题，
           - 零售户地图位置纠正(基于百度地图Android SDK)
-          - 解决一些兼容性问题
+          - 解决一些兼容性问题，新功能的开发。
 
   - role: 小伴
     time: 2016.10 - 2016.12  3个月
@@ -203,15 +203,16 @@ experiences-projects:
        一款移动办公 App，可发布任务，发布会议通知，可查看操作自己的待办事宜、任务、需要参加的会议;可在“工作圈”分享工作生活信息。
 
          - 职责
-           - 独自开发，采用项目组封装的网络请求框架，。
+           - 独自开发，采用项目组封装的网络请求框架，独立完成项目的 UI 开发。
          - 相关技术
-           - 使用 RadioGroup+Fragment 搭建主界面，实现主界面切换
-           - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突。
-           - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载。
-           - 使用 ViewPager 自定义首次打开应用的动画效果
-           - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
-           - 使用 Volley 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
            - 使用 Jpush 实现推送服务
+           - 使用 ViewPager 自定义首次打开应用的动画效果
+           - 基于 PullToRefresh 开源框架实现下拉刷新、上拉加载更多，分页加载
+           - 使用 Volley 进行网络数据请求, 使用 Gson 解析从服务器获取的 Json 数据
+           - 自定义类似微信朋友圈的发布、评论、以及点击评论时自动把ListView的焦点滑动到输入方软件上方
+           - 首页模块添加了头布局 ViewPager，实现了图片自动轮播效果,并且解决了ViewPager 嵌套 ViewPager 的事件传递的冲突
+
+
 
   - role: 大连人社局 OA 办公 App
     time: 2016.7 - 2016.9  3个月
@@ -290,10 +291,7 @@ skills:
     - name: JavaWeb & WebApi
       level: 45%
 
-    - name: HTML & CSS
-      level: 40%
-
-    - name: Javascript
+    - name: HTML & CSS & Javascript
       level: 30%
 
 
