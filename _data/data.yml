@@ -59,7 +59,7 @@ career-profile:
   summary: |
     3.5年工作经验，3年Android App 开发经验，0.5年Java后台开发经验。
 
-    了解 Kotlin、熟悉Java、多线程、网络协议、常用设计模式。
+    了解 Kotlin、Flutter,熟悉Java、多线程、网络协议、常用设计模式。
 
     掌握 Android OOP、ANR 等问题的原因及解决方法。
 
@@ -95,14 +95,25 @@ education:
   #       - Bullet point
 
 experiences:
-  #      title:工作经验
   - role: Android 中级开发工程师
-    time: 2019.07 - 2019.07  1 个月
-    company: CVTE · 视源电子科技股份有限公司
-    details: |
-      解决会议平板、教育平板定制 OS 中的 bug，定制 OS 维护升级。
+      time: 2019.09 - 至今
+      company: 北京原子恋科技有限公司
+      details: |
+        优化开发框架、提高开发效率，例如增加OKHttp Log,便于定位网络请求问题，提高前后端开发效率。
+        商城主要模块开发与优化，领淘宝、京东、拼多多优惠券购物模块开发。
+        接入微信登录。接入微信 H5 支付，接入 H5 游戏与游戏充值，接入小视频。
+        接入腾讯 IM,实现实现聊天功能。
+        优化商品列表加载速度等等，帮同事修复一些 bug。
 
-      离职原因：工作内容与职业规划不契合。
+
+  #      title:工作经验
+#  - role: Android 中级开发工程师
+#    time: 2019.07 - 2019.07  1 个月
+#    company: CVTE · 视源电子科技股份有限公司
+#    details: |
+#      解决会议平板、教育平板定制 OS 中的 bug，定制 OS 维护升级。
+#
+#      离职原因：工作内容与职业规划不契合。
 
   - role: Android 中级开发工程师
     time: 2017.07 - 2019.06  2 年
@@ -141,8 +152,30 @@ experiences:
 
 
 
+
+
 experiences-projects:
   #      title:项目经验
+  - role: Atoshi 虚拟货币社区、好物聚商城(https://atoshi.org/)
+    time:  2019.09 - 至今
+    company: 北京原子恋科技有限公司
+    details: |
+      一款虚拟货币社区App，拥有海量用户，用用户量实现商城盈利、导购返佣、出行返佣、游戏返佣、小视频返佣。
+      主要功能有自营商城、及时通讯IM、虚拟货币兑换、原力出行、小视频、小游戏。
+
+        - 职责
+          - 合作开发，商城模块主要功能开发，优化开发框架提升开发效率。
+        - 相关技术
+          - 优化商品列表加载速度等等，帮同事修复一些 bug.
+          - 接入微信登录。接入微信 H5 支付，接入 H5 游戏与游戏充值，接入小视频与食品播放。
+          - 接入腾讯 IM SDK,实现实现聊天功能,优化SDK中存在的问题。
+          - WebView 加载拼多多、京东、淘宝商品详情。
+          - Coordinatorlayout、Behavior 等Material Design。
+          - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题。
+
+
+
+
   - role: 未来终端
     time:  2019.01 - 2019.06  6个月
     company: 北京中烟信息技术有限公司
@@ -285,17 +318,17 @@ skills:
     - name: Java & Android
       level: 75%
 
-    - name: Kotlin
-      level: 45%
+    - name: Kotlin & Flutter
+      level: 20%
 
     - name: SQL
-      level: 45%
+      level: 40%
 
     - name: JavaWeb & WebApi
-      level: 40%
+      level: 30%
 
     - name: HTML & CSS & Javascript
-      level: 40%
+      level: 20%
 
 
 
