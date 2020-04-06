@@ -57,15 +57,15 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    3.5年工作经验，3年Android App 开发经验，0.5年Java后台开发经验。
+    4年工作经验，3年Android App 开发经验，1年Java后台开发经验。
 
-    了解 Kotlin、Flutter,熟悉Java、多线程、网络协议、常用设计模式。
+    了解 Flutter,掌握Kotlin、Java、多线程、网络协议、常用设计模式等。
 
-    掌握 Android OOP、ANR 等问题的原因及解决方法。
+    掌握ndroid性能优化，掌握Android OOP、ANR 等问题的原因及解决方法。
 
-    熟悉Android性能优化、自定义View、Handler 机制、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
+    掌握自定义View、Handler 机制、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
 
-    热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow、ApiDoc中寻找答案。
+    热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow中寻找答案。
 
 education:
   - degree: 网络工程学士（计算机科学与技术学院）
@@ -101,13 +101,11 @@ experiences:
     details: |
       优化开发框架、提高开发效率，例如增加OKHttp Log,便于定位网络请求问题，提高前后端开发效率。
 
-      商城主要模块开发与优化，领淘宝、京东、拼多多优惠券购物模块开发。
+      商城主要模块开发与优化，优惠券导购功能开发。
 
-      接入微信登录。接入微信 H5 支付，接入 H5 游戏与游戏充值，接入小视频。
+      接入支付宝支付、微信支付，接入腾讯IM,实现实现即时通讯功能。
 
-      接入腾讯 IM,实现实现聊天功能。
-      
-      优化商品列表加载速度等等，帮同事修复一些 bug。
+      优化商品列表加载速度，修复线上 Bug等等。
 
 
   #      title:工作经验
@@ -125,11 +123,11 @@ experiences:
     details: |
       工作积极主动，因工作突出2018年度被评为年度优秀员工。
 
-      向技术总监汇报工作，主导 App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
+      主导 Android App 开发过程，根据项目概要设计和原型，编写 App 详细开发文档。
 
-      为 IOS 和后台Api开发人员解答业务疑问，跟踪开发进度；与UI设计师沟通原型和切图。
+      与UI设计师沟通原型和切图，与IOS、后台Api开发人员沟通进度，向技术经理汇报项目进度。
 
-      自定义View，Android 功能模块开发，Android 重要技术选型，Android框架优化升级。
+      Android 功能模块开发，根据业务需要自定义View，Android 技术选型，Android框架搭建。
 
 
 
@@ -146,7 +144,7 @@ experiences:
 
       基于 Struts +  Spring + Hibernate 框架开发业务模块。对Java Web 和 SQL 复杂查询有所了解。
 
-      与 Android 高级开发工程师协作开发一款 OA 办公App，独立开发一款公司内部移动办公 App。
+      与 Android 高级开发工程师协作开发一款 OA 办公App。
 
 #  - role: Java Web开发实习生
 #    time: 2016.02 - 2016.04  3个月
@@ -160,20 +158,19 @@ experiences:
 
 experiences-projects:
   #      title:项目经验
-  - role: Atoshi 虚拟货币社区、好物聚商城(https://atoshi.org/)
+  - role: Atoshi 虚拟货币社区(https://download.atoshi.cn/atoshi.apk)
     time:  2019.09 - 至今
     company: 北京原子恋科技有限公司
     details: |
-      一款虚拟货币社区App，拥有海量用户，用用户量实现商城盈利、导购返佣、出行返佣、游戏返佣、小视频返佣。
-      主要功能有自营商城、及时通讯IM、虚拟货币兑换、原力出行、小视频、小游戏。
+      一款虚拟货币社区App，主要功能有自营商城、及时通讯IM、虚拟货币兑换、导购返佣、广告推广。
 
         - 职责
           - 合作开发，商城模块主要功能开发，优化开发框架提升开发效率。
         - 相关技术
-          - 优化商品列表加载速度等等，帮同事修复一些 bug.
-          - 接入微信登录。接入微信 H5 支付，接入 H5 游戏与游戏充值，接入小视频与食品播放。
-          - 接入腾讯 IM SDK,实现实现聊天功能,优化SDK中存在的问题。
-          - WebView 加载拼多多、京东、淘宝商品详情。
+          - 优化商品列表加载速度、排查线上Bug。
+          - 接入微信支付、支付宝支付、阿里实名认证。
+          - 接入腾讯 IM SDK,同时根据业务需要，进行二次开发。
+          - WebView 加载拼多多、京东、淘宝商品详情，掌握Native 和 JavaScript交互。
           - Coordinatorlayout、Behavior 等Material Design。
           - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题。
 
@@ -242,7 +239,7 @@ experiences-projects:
        一款移动办公 App，可发布任务，发布会议通知，可查看操作自己的待办事宜、任务、需要参加的会议；可在“工作圈”分享工作生活信息。
 
          - 职责
-           - 独自开发，采用项目组封装的网络请求框架，独立完成项目的 UI 开发。
+           - 多人协作，采用项目组封装的网络请求框架，独立完成项目的 UI 开发。
          - 相关技术
            - 使用 Jpush 实现推送服务
            - 使用 ViewPager 自定义首次打开应用的动画效果
@@ -322,17 +319,14 @@ skills:
     - name: Java & Android
       level: 75%
 
-    - name: Kotlin & Flutter
-      level: 20%
+    - name: Kotlin
+      level: 40%
 
     - name: SQL
       level: 40%
 
-    - name: JavaWeb & WebApi
-      level: 30%
-
-    - name: HTML & CSS & Javascript
-      level: 20%
+    - name: Flutter
+        level: 10%
 
 
 
