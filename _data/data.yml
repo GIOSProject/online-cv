@@ -57,20 +57,24 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    4年工作经验：1年Java后台开发经验，3年Android App 开发经验。
+    4年工作经验：0.5年Java后台开发经验，3.5年Android App 开发经验。
 
-    了解 Flutter,掌握Kotlin、Java、多线程、网络协议、常用设计模式等。
+    了解 Dart、Flutter,掌握Kotlin、Java、多线程、网络协议、常用设计模式等。
 
-    掌握ndroid性能优化，掌握Android OOP、ANR 等问题的原因及解决方法。
+    掌握Android性能优化，掌握Android OOP、ANR 等问题的原因及解决方法。
 
-    掌握自定义View、Handler 机制、RxJava、Retrofit、OkHttp、Glide、EventBus、MVP。
+    掌握 自定义View、Handler 机制、内存优化
 
-    热爱技术，勇于面对困难和挑战，遇到技术问题喜欢从Google、stackoverflow中寻找答案。
+    掌握RxJava、OkHttp、Retrofit、Glide、EventBus、
+
+    掌握MVC、MVP，了解MVVM、JetPack
+
+    遇到技术问题，可以用Google、Stackoverflow、Github Issues找到解决方案。
 
 education:
-  - degree: 网络工程学士（计算机科学与技术学院）
-    university: 聊城大学
-    time: 2012 - 2016
+  - degree: 统招本科/网络工程学士
+    university: 聊城大学（计算机科学与技术学院）
+    time: 2012.9 - 2016.6
     details: |
       # Describe your study here lorem ipsum dolor sit amet, consectetuer
       # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,16 +103,20 @@ experiences:
     time: 2019.09 - 至今
     company: 北京原子恋科技有限公司
     details: |
-      优化开发框架、提高开发效率，例如增加OKHttp Log,便于定位网络请求问题，提高前后端开发效率。
+      优化开发框架、提高开发效率，
+
+      使用 Bugly监控线上bug,紧急修复线上 Bug 。
 
       商城主要模块开发与优化，优惠券导购功能开发。
 
-      接入支付宝支付、微信支付，接入腾讯IM,实现实现即时通讯功能。
-
-      优化商品列表加载速度，修复线上 Bug等等。
+      接入支付宝支付、微信支付，接入腾讯IM,实现即时通讯功能。
 
 
-  #      title:工作经验
+
+
+
+
+#      title:工作经验
 #  - role: Android 中级开发工程师
 #    time: 2019.07 - 2019.07  1 个月
 #    company: CVTE · 视源电子科技股份有限公司
@@ -118,7 +126,7 @@ experiences:
 #      离职原因：工作内容与职业规划不契合。
 
   - role: Android 中级开发工程师
-    time: 2017.07 - 2019.06  2 年
+    time: 2017.07 - 2019.07  2 年
     company: 北京中烟信息技术有限公司
     details: |
       工作积极主动，因工作突出2018年度被评为年度优秀员工。
@@ -162,7 +170,7 @@ experiences-projects:
     time:  2019.09 - 至今
     company: 北京原子恋科技有限公司
     details: |
-      一款虚拟货币社区App，主要功能有自营商城、及时通讯IM、虚拟货币兑换、导购返佣、广告推广。
+      一款社交电商App，主要功能有自营商城、及时通讯IM、虚拟货币兑换、导购返佣、广告推广。
 
         - 职责
           - 合作开发，商城模块主要功能开发，优化开发框架提升开发效率。
@@ -323,9 +331,9 @@ skills:
       level: 40%
 
     - name: SQL
-      level: 40%
+      level: 35%
 
-    - name: Flutter
+    - name: Dart & Flutter
       level: 10%
 
 
