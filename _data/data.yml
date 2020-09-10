@@ -103,7 +103,6 @@ experiences:
     time: 2019.09 - 至今
     company: 北京原子恋科技有限公司
     details: |
-      负责：
 
       商城模块：商城首页、分类、搜索、购物车、订单、店铺
 
@@ -182,7 +181,7 @@ experiences-projects:
         - 职责
           - 合作开发，主要负责商城模块、支付模块、导购返利模块，优化开发框架提升开发效率。
         - 相关技术
-          - 屏幕适配方案选型，解决团队适配问题
+          - 屏幕适配方案选型，解决团队屏幕适配问题
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide + MVP
           - 从 Java 转向 Kotlin开发，使用Jetpack:LifeCycle、Navigation、LiveData、ViewModel
           - OkHttp拦截器接口签名验证
