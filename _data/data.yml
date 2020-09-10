@@ -67,7 +67,7 @@ career-profile:
 
     掌握RxJava、OkHttp、Retrofit、Glide、EventBus、
 
-    掌握MVC、MVP，了解MVVM、JetPack
+    掌握MVC、MVP、MVVM、JetPack
 
     遇到技术问题，可以用Google、Stackoverflow、Github Issues找到解决方案。
 
@@ -103,13 +103,20 @@ experiences:
     time: 2019.09 - 至今
     company: 北京原子恋科技有限公司
     details: |
-      优化开发框架、提高开发效率，
+      负责：
 
-      使用 Bugly监控线上bug,紧急修复线上 Bug 。
+      商城模块：商城首页、分类、搜索、购物车、订单、店铺
 
-      商城主要模块开发与优化，优惠券导购功能开发。
+      支付模块：支付宝支付、微信支付、微信H5支付
 
-      接入支付宝支付、微信支付，接入腾讯IM,实现即时通讯功能。
+      社交电商导购模块： 京东导购、淘宝导购、拼多多导购
+
+      安全：Api接口签名验证、时间校准
+
+      线上bug监控与修复
+
+
+
 
 
 
@@ -166,21 +173,26 @@ experiences:
 
 experiences-projects:
   #      title:项目经验
-  - role: Atoshi 虚拟货币社区(https://download.atoshi.cn/atoshi.apk)
+  - role: Atoshi 社交电商App (https://download.atoshi.cn/atoshi.apk)
     time:  2019.09 - 至今
     company: 北京原子恋科技有限公司
     details: |
-      一款社交电商App，主要功能有自营商城、及时通讯IM、虚拟货币兑换、导购返佣、广告推广。
+      一款社交电商App，主要功能有自营商城、IM聊天、虚拟货币兑换、导购返佣、广告游戏推广。
 
         - 职责
-          - 合作开发，商城模块主要功能开发，优化开发框架提升开发效率。
+          - 合作开发，主要负责商城模块、支付模块、导购返利模块，优化开发框架提升开发效率。
         - 相关技术
-          - 优化商品列表加载速度、排查线上Bug。
-          - 接入微信支付、支付宝支付、阿里实名认证。
-          - 接入腾讯 IM SDK,同时根据业务需要，进行二次开发。
+          - 屏幕适配方案选型，解决团队适配问题
+          - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide + MVP
+          - 从 Java 转向 Kotlin开发，使用Jetpack:LifeCycle、Navigation、LiveData、ViewModel
+          - OkHttp拦截器接口签名验证
+          - 优化商品列表加载速度
+          - 微信支付、微信H5支付、支付宝支付
+          - 腾讯 IM SDK聊天,基于SDK开发客服功能
           - WebView 加载拼多多、京东、淘宝商品详情，掌握Native 和 JavaScript交互。
-          - Coordinatorlayout、Behavior 等Material Design。
+          - Constraintlayout Coordinatorlayout、Behavior 等Material Design。
           - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题。
+          - 布局优化、绘制优化、内存优化
 
 
 
@@ -189,13 +201,13 @@ experiences-projects:
     time:  2019.01 - 2019.06  6个月
     company: 北京中烟信息技术有限公司
     details: |
-      一款面向香烟零售户 App，主要功能有:用户使用手机号注册、填写香烟基本信息奖励积分、积分商城、积分抽奖、奖品发放、快递跟踪。
+      一款面向香烟零售户 App，主要功能有:用户管理、积分商城、积分抽奖、奖品发放、快递跟踪。
 
         - 职责
           - 独自开发，负责项目基础框架搭建、App基础业务设计、App详细设计、所有功能模块开发、主导移动端开发过程。
         - 相关技术
-          - MVP 架构，Model与View之间的交互由Presenter完成
           - 使用 RxJava2 实现 JWT 身份认证失效后，网络请求重试机制（静默登录获取Token，然后二次请求，二次失败则强制用户登录）
+          - MVP 架构，Model与View之间的交互由Presenter完成
           - 使用 RxBinding 优雅实现表单验证、搜索请求
           - 使用 Bugly 快速发现并解决异常
           - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题
@@ -212,7 +224,6 @@ experiences-projects:
          - 独自开发，负责项目基础框架搭建、App详细设计、所有功能模块开发、主导移动端开发过程。
        - 相关技术
          - 处理嵌套事件分发冲突，熟悉Android 事件分发冲突解决方案
-         - 布局优化、绘制优化、内存优化
          - RxJava2 + Retrofit2 + OkHttp3 做网络请求和请求结果处理，熟悉 TCP、HTTP等常用网络协议
          - 使用 Rxjava2 的操作符对事件流进行进行转换、组合、过滤等操作，了解Java8特性
          - 使用 EventBus 来方便组件间的通信
@@ -328,7 +339,7 @@ skills:
       level: 75%
 
     - name: Kotlin
-      level: 40%
+      level: 50%
 
     - name: SQL
       level: 35%
