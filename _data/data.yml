@@ -22,7 +22,7 @@ sidebar:
   # twitter: '@s'
   website: seachal.github.io  #do not add http://
   stack-overflow: 6533312/seachal # Number/Username, e.g. 123456/alandoegi
-  # codewars:
+#  codewars: Seachal
   # goodreads: # Number-Username, e.g. 123456-alandoe
 
 
@@ -57,7 +57,7 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    4年工作经验：0.5年Java后台开发经验，3.5年Android App 开发经验。
+    5.5年工作经验：1年Java后端开发经验，4.5年Android App 开发经验。
 
     了解 Dart、Flutter,掌握Kotlin、Java、多线程、网络协议、常用设计模式等。
 
@@ -338,13 +338,13 @@ skills:
       level: 75%
 
     - name: Kotlin
-      level: 50%
+      level: 60%
 
     - name: SQL
       level: 35%
 
     - name: Dart & Flutter
-      level: 10%
+      level: 30%
 
 
 
