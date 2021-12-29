@@ -100,9 +100,9 @@ education:
 
 experiences:
   - role: Android 高级开发工程师
-      time: 2020.09 - 至今
-      company: 新奥集团·一城一家网络科技有限公司
-      details: |
+    time: 2020.09 - 至今
+    company: 新奥集团·一城一家网络科技有限公司
+    details: |
         主要负责 e城e家 、e城商户通 的开发工作， 参与过e城e家师傅端的维护工作。
 
   - role: Android 中级开发工程师
