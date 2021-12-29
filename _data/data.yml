@@ -57,19 +57,22 @@ sidebar:
 career-profile:
   title: 概况
   summary: |
-    5.5年工作经验：1年Java后端开发经验，4.5年Android App 开发经验。
+    5.5年工作经验：有过1年Java后端开发经验，目前4.5年Android App 开发经验。主导或独立开发过多款商业APP，拥有丰富的开发经验，
+    熟悉APP开发和发布的完整流程，具备较强的逻辑分析能力和解决问题能力。
 
-    了解 Dart、Flutter,掌握Kotlin、Java、多线程、网络协议、常用设计模式等。
+    了解 React-Native、 Flutter、Jetpack Compose等
 
-    掌握Android性能优化，掌握Android OOP、ANR 等问题的原因及解决方法。
+    掌握Dart、Kotlin、Java、网络协议,深入理解面向对象的设计思想，常用设计模式及六大设计原则。
 
-    掌握 自定义View、Handler 机制、内存优化
+    熟悉⽀付、地图、消息推送、埋点、分享、统计等第三⽅开放 SDK， 并具备对其⼆次封装的能⼒。
 
-    掌握RxJava、OkHttp、Retrofit、Glide、EventBus、
+    熟悉Android UI开发、网络通讯、多线程开发，性能优化等。深入理解事件分发机制、View绘制流程、Handler机制原理、屏幕适配技术。熟练使用RxJava，Retrofit、Glide、Okhttp等第三方开源类库。
 
-    掌握MVC、MVP、MVVM、JetPack
+    熟悉 Android 性能优化，并对启动优化、稳定性优化、布局优化、瘦身优化有过相关的实践。
 
-    遇到技术问题，可以用Google、Stackoverflow、Github Issues找到解决方案。
+    掌握Android模块化、组件化、插件化，熟悉 MVC、MVP、MVVM。
+
+    有较强的产品意识，善于从产品以及用户需求的角度进行相对应的学习与开发，协助产品经理分析解决业务需求，服务于用户。
 
 education:
   - degree: 统招本科/网络工程学士
@@ -103,22 +106,26 @@ experiences:
     time: 2020.09 - 至今
     company: 新奥集团·一城一家网络科技有限公司
     details: |
-        主要负责 e城e家 、e城商户通 的开发工作， 参与过e城e家师傅端的维护工作。
+      主要负责 e城e家（应用市场累计下载量9000万）开发、进度管理等工作。
+      参与e城商户通、e城e家师傅端-隐患识别等开发工作。
+      质量模块：追踪并解决 APP 遇到的难以解决的疑难 Bug。
+      性能稳定性优化：主要针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化。
+
 
   - role: Android 中级开发工程师
     time: 2019.09 - 2020.09
     company: 北京原子恋科技有限公司
     details: |
-      
-      商城模块：商城首页、分类、搜索、购物车、订单、店铺
+      Android端小组长，负责项目的开发、任务分配、人员招聘等工作。
 
-      支付模块：支付宝支付、微信支付、微信H5支付
+      负责商城模块：商城首页、分类、搜索、购物车、订单、店铺。
 
-      社交电商导购模块： 京东导购、淘宝导购、拼多多导购
+      负责支付模块：支付宝支付、微信支付、微信H5支付。
 
-      安全：Api接口签名验证、时间校准
+      负责社交电商导购模块： 京东导购、淘宝导购、拼多多导购。
 
-      线上bug监控与修复
+      负责安全模块：Api接口签名验证、时间校准。
+
 
 
 #      title:工作经验
@@ -178,17 +185,16 @@ experiences-projects:
       e城e家是一站式品质生活服务平台，聚集了家庭生活所需要的水电气暖、家居、家电的维修安装、清洁保养、家政保姆等服务项目和以厨房卫浴为主的商品直销，覆盖全国主要城市小区，运用大数据和AI技术构建家庭服务生态圈。
 
         - 职责
-          - 多人协作，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
+          - 主力开发，主要负责首页模块、商城模块、缴费模块，优化开发框架提升开发效率。
         - 相关技术
           - 屏幕适配方案选型，解决团队屏幕适配问题
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide
-          - 从 Java 转向 Kotlin开发，
           - 微信支付、微信H5支付
-          - Constraintlayout Coordinatorlayout、Behavior 等Material Design。
-          - 布局优化、绘制优化、内存优化
+          - Constraintlayout Coordinatorlayout、Behavior 等Material Design等 Google 新框控件。
+          - 针对了 内存、卡顿、网络、启动速度、布局加载、包体积 进行了多维的优化
 
   - role: Atoshi 社交电商App
-    time:  2019.09 - 至今
+    time:  2019.09 - 2020.09
     company: 北京原子恋科技有限公司
     details: |
       一款社交电商App，主要功能有自营商城、IM聊天、虚拟货币兑换、导购返佣、广告游戏推广。
@@ -200,11 +206,9 @@ experiences-projects:
           - RxJava2 + Retrofit2 + OkHttp3 + EventBus + Glide + MVP
           - 从 Java 转向 Kotlin开发，使用Jetpack:LifeCycle、Navigation、LiveData、ViewModel
           - OkHttp拦截器接口签名验证
-          - 优化商品列表加载速度
           - 微信支付、微信H5支付、支付宝支付
           - 腾讯 IM SDK聊天,基于SDK开发客服功能
-          - WebView 加载拼多多、京东、淘宝商品详情，掌握Native 和 JavaScript交互。
-          - Constraintlayout Coordinatorlayout、Behavior 等Material Design。
+          - 集成阿里百川、京东、拼多多等电商组件、WebView中适配携程、嘀嗒出行等一些主流平台的商品解析、跳转等。
           - 使用 Leakcanary 检查内存泄漏，解决内存泄漏问题。
           - 布局优化、绘制优化、内存优化
 

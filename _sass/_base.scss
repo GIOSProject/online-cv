@@ -131,11 +131,13 @@ p {
     }
 
     .container-block-title2 {
-        text-transform: uppercase;
+        // CSS属性指定如何将元素的文本大写
+        text-transform: none;
         font-size: 14px;
-        font-weight: 700;
-        margin-top: 0px;
-        margin-bottom: 15px;
+        //  属性指定了字体的粗细程度。 一些字体只提供 normal 和 bold 两种值。
+        font-weight: 400;
+        margin-top: 10px;
+        margin-bottom: 5px;
     }
     //.container-block-title-margin-top {
     //    padding-top: 60px;
